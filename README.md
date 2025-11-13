@@ -61,23 +61,22 @@ El proyecto se implementó completamente en **Python**, integrando análisis des
 │
 ├── README.md                     # Descripción del proyecto
 └── requirements.txt              # Dependencias del entorno
+```
 
-📂 Autoría y Créditos
+## 📂 Autoría y Créditos
 
-Autor: Luis Orozco — 
-Experto en Finanzas Estratégicas y Análisis de Negocios
+**Autor:** Luis Orozco — Experto en Finanzas Estratégicas y Análisis de Negocios
 
+---
 
-### 🌐 Conecta conmigo
-
-<a href="www.linkedin.com/in/luis-orozco-b8805540" title="LinkedIn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn"/>
-</a>
-&nbsp; | &nbsp;
-<a href="https://github.com/luisoroz1/8-desafio1_ciencia_de_datos_alura_store" title="GitHub – Repo ciencia_de_datos_store">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" alt="GitHub"/>
-</a>
-
-📜 Licencia
-Este proyecto se comparte bajo la licencia MIT .
+## 📜 Licencia
+Este proyecto se comparte bajo la licencia MIT.  
 Puedes usarlo, modificarlo y distribuirlo libremente citando la fuente.
+
+---
+
+## 🌐 Conéctate Conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-orozco-b8805540)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisoroz1/8-desafio1_ciencia_de_datos_alura_store)
+
