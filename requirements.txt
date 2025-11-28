@@ -1,0 +1,8 @@
+# Dependencias necesarias para ejecutar AluraStoreLatam.ipynb
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+folium
+geopy
